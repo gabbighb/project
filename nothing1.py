@@ -4,8 +4,7 @@ import time
 import datetime
 
 root = Tk()
-root.geometry("100x600+180+20")
-root.title("simple Calculator by GABRIEL")
+root.title("your title")
 
 Tops = Frame(root, width=100, height= 50, bd=16, relief="raise")
 Tops.pack(side=TOP)
